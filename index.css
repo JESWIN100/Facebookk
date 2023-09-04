@@ -1,0 +1,146 @@
+body{
+    margin: 0;
+    font-family:Helvetica Neue,Helvetica,arial, sans-serif ;
+}
+.image{
+    height: 106px;
+    margin: -28px;
+    padding-top: 220px;
+    padding-left: 35%;
+    
+}
+.para{
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    padding-left: 35%;
+    margin-top: 13px
+  
+}
+.left-section{
+width: 50%;
+}
+.right-section{
+    width: 50%;
+}
+.container {
+    background: #dfe3ee;
+    height: 690px;
+}
+.inner {
+    
+    margin-top: -276px;
+    margin-right: -485px;
+    float: right;
+    background-color: #fff;
+    width: 390px;
+    height: 352px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+}
+
+.input-text{
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+    border-radius: 6px;
+    margin-top: 20px;
+    border-color:#fff ;
+    border: 2px solid #dddfe2
+}
+.contentform{
+    float: right;
+    margin-right:200px;
+    margin-top:-150px;
+    background:#fff;
+
+}
+.btn{
+    border-color: #fff;
+    margin-top: 15px;
+    background-color: #1877f2;
+    padding: 16px;
+    width: 93%;
+    border-radius: 8px;
+    color: #fff;
+font-size: 18px;
+cursor: pointer;
+font-weight: bold;
+
+
+}
+.pass{
+    text-decoration: none;
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+
+
+}
+.pass:hover{
+    text-decoration: underline;
+}
+.create{
+    margin-top: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+.create {
+   
+    padding: -11px;
+    width: 51%;
+    background: #42b72a;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 11px;
+    font-weight: 600;
+    transition: 0.2s ease;
+    padding-left: -27px;
+    margin-left: 100px;
+    height: 46px;
+    padding-top: 3px;
+    padding-bottom: 3px
+}
+.last{
+    float: right;
+    margin-right: 294px;
+    margin-top: 92px;
+    font-size: 13px;
+    color: black;
+}
+.footer{
+    width: 100%;
+    height: 150px;
+    background: #fff;
+    margin-top: 19%;
+    padding-left: 280px;
+    
+}
+.end{
+    font-family: inherit;
+    font-size: 13px;
+    color: #737373;
+    padding-top: 10px;
+
+}
+.contentcurve{
+    border-bottom: 1 px solid;
+    font-size: 1 px;
+    height: 0px;
+    margin-bottom: 8px;
+    color: #1877f2;
+    width: 1158px
+}
+.last-la{
+    font-family: inherit;
+    font-size: 13px;
+    color: #737373;
+}
+.cursor{
+    cursor: pointer;
+}
